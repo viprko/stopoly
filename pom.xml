@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>back</groupId>
-    <artifactId>stopoly</artifactId>
+    <artifactId>stolenpoly</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>stolenpoly</name>
     <description>stolenpoly</description>
