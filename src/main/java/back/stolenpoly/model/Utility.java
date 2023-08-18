@@ -1,0 +1,17 @@
+package back.stolenpoly.model;
+
+import jakarta.persistence.Entity;
+import jakarta.persistence.Id;
+import lombok.Getter;
+import lombok.Setter;
+
+@Entity
+@Getter
+@Setter
+public class Utility {
+    @Id
+    private Long id;
+    private String title;
+    private int price;
+    private int payout;
+}
