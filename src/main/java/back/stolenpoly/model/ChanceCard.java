@@ -15,4 +15,5 @@ public class ChanceCard {
     private String description;
     private int outcome;
     private int income;
+    private boolean underArrest;
 }

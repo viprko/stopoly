@@ -11,6 +11,6 @@ import lombok.Setter;
 public class Tax {
     @Id
     private Long id;
-    private int pay;
+    private int payout;
     private String title;
 }
